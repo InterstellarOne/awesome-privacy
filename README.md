@@ -1168,7 +1168,7 @@ Due to Reddit's high API fees, clients will either require a subscription, a per
 <img width="16" src="misc/check.png"> </img> **Privacy respecting Reddit clients:**
 - [Libreddit](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
 - [rdx](https://rdx.overdevs.com/) - A lightweight mobile/web viewer for Reddit, inspired by apollo.
-- [troddit](https://www.troddit.com/) - A web client for Reddit with authenticated logins and a variety of browsing options.
+- [Troddit](https://www.troddit.com/) - A web client for Reddit with authenticated logins and a variety of browsing options.
 - <img width="16" src="misc/android.png"> [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A beautiful Reddit client for Android.
 - <img width="16" src="misc/apple.png"> <img width="16" src="misc/android.png"> [Slide](https://github.com/ccrama/Slide) - Slide is an open sourced, ad free Reddit browser for Android and iOS.
 - <img width="16" src="misc/android.png"> [Geddit](https://github.com/kaangiray26/geddit-app) - Geddit is an open-source, Reddit client for Android without using their API.
