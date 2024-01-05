@@ -1159,7 +1159,7 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 
 [![](https://shields.tosdr.org/en_194.svg)](https://tosdr.org/en/service/194)
 
-<img width="16" src="misc/forbidden.png"> </img> Try to avoid using Reddit or at least avoid their official clients as they are plenty of trackers, ads and share unnecessary user data with their servers.
+<img width="16" src="misc/forbidden.png"> </img> Try to avoid using Reddit or at least avoid their official clients as they are plenty of trackers, ads and share unnecessary user data with their servers. Due to Reddit's high API fees, clients will either require a subscription, a personal API key or will only be able to view posts and subreddits.
 
 <img width="16" src="misc/check.png"> </img> **Reddit alternatives:**
 - [Aether](https://getaether.net/) - Peer-to-peer ephemeral public communities.
@@ -1168,11 +1168,10 @@ Odysee website contains some trackers and is a heavy site. You can use these alt
 - [SaidIt](https://saidit.net/) - Open source Reddit clone.
 
 <img width="16" src="misc/check.png"> </img> **Privacy respecting Reddit clients:**
-- [Libreddit](https://github.com/libreddit/libreddit) - Private Reddit front-end written in Rust
-- [Teddit](https://teddit.net/) - Alternative Reddit front-end focused on privacy
+- [rdx](https://rdx.overdevs.com/) - A lightweight mobile/web viewer for Reddit, inspired by apollo.
 - <img width="16" src="misc/android.png"> [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A beautiful Reddit client for Android.
-- <img width="16" src="misc/android.png"> [Dawn](https://github.com/Tunous/Dawn) - A gesture driven, open source reddit client for android
 - <img width="16" src="misc/apple.png"> <img width="16" src="misc/android.png"> [Slide](https://github.com/ccrama/Slide) - Slide is an open sourced, ad free Reddit browser for Android and iOS.
+- <img width="16" src="misc/android.png"> [Geddit](https://github.com/kaangiray26/geddit-app) - Geddit is an open-source, Reddit client for Android without using their API.
 
 ### Streaming Platforms (Twitch)
 
