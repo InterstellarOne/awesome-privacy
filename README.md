@@ -640,6 +640,7 @@ Nintendo [collects user data](https://www.reddit.com/r/privacy/comments/qtj9xt/t
 
 - [SuperTuxKart](https://supertuxkart.net/Main_Page) - A 3D open-source arcade racer with a variety characters, tracks, and modes to play.
 - [Sonic Robo Blast 2 Kart](https://mb.srb2.org/addons/srb2kart.2435/) - SRB2Kart is a classic styled kart racer, complete with beautiful courses, and wacky items.
+- [Dr. Robotnik's Ring Racers](https://www.kartkrew.org/) - An open-source retro kart racing game with over 200 crazy courses, local split-screen multiplayer up to 4 players, and online play up to 16. Ring racers is built upon SRB2Kart.
 
 ### Minecraft
 
